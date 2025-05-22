@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "yelp-developers",
+      "source": "@yelp-developers/v1.0#bmpswu15m98n0k6w",
+      "integrity": "sha512-mdDWvq1BIJUyzZZMxKzbtKKyPK2N8VW/ZyarDrCD7zY1iLMW3gIfiLWvxM8KwMhHm3VDiDRXiD/TPjEx7l7wTQ==",
+      "installerVersion": "6.1.3"
+    }
+  ]
+}
