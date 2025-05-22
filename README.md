@@ -65,3 +65,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - Better API unit testing with 'msw'
 - We could probably utilize useReducer and useContext to manage our search param states rather than prop drilling
 - The callbacks especially that we're prop drilling seem smelly, useContext would be able to fix that
+- There should probably be some way to click a boba store to open it on maps
